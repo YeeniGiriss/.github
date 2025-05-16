@@ -1,14 +1,22 @@
 # Vegabet 2025 Adres 👋
 
-<hr style="border: none; height: 2px; background-color: #000;">
-<a href="https:/linkcuts.org/qg4z6rbb" title="ResimLink - Resim Yükle" style="display:inline-block; margin-right: 10px;">
-  <img src="https://r.resimlink.com/Z9GXUQe3n8NC.jpeg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle" width="400">
+<hr style="border:none;height:1.5px;background:#111;margin:25px 0;">
+
+<a href="https://shortlinkapp.com/kHCsB" title="Deneme Bonusu Veren Siteler" style="display:inline-block; margin-right:12px;">
+  <img src="https://r.resimlink.com/Z9GXUQe3n8NC.jpeg" title="Ücretsiz Deneme Bonusu Erişimi" alt="Deneme Bonusu Giriş Sayfası" width="400">
 </a>
-<a href="https:/linkcuts.org/qg4z6rbb" title="ResimLink - Resim Yükle" style="display:inline-block;">
-  <img src="https://r.resimlink.com/pbiRcmNJ5H.jpeg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle" width="400">
+<a href="https://shortlinkapp.com/kHCsB" title="Hemen Üye Ol, Bonusu Kap!" style="display:inline-block;">
+  <img src="https://r.resimlink.com/pbiRcmNJ5H.jpeg" title="Bedava Bahis Bonusu" alt="Deneme Bonusu Veren Bahis Siteleri" width="400">
 </a>
 
-<hr style="border: none; height: 2px; background-color: #000;">
-<a href="https://t.me/albayabi" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/u7HTKI4.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle" width="1000" ></a>
-<hr style="border: none; height: 2px; background-color: #000;">
-<a href="https://indexle.com" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/xAdnZ.jpg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<hr style="border:none;height:2px;background:#000;margin:20px 0;">
+
+<a href="https://t.me/albayabi" title="Telegram Üzerinden İletişime Geçin">
+  <img src="https://r.resimlink.com/u7HTKI4.png" alt="Telegram Destek" title="SEO & Marka Koruma - Telegram" width="1000">
+</a>
+
+<hr style="border:none;height:1.5px;background:#111;margin:25px 0;">
+
+<a href="https://indexle.com" title="indexle.com - SEO Hit Botu">
+  <img src="https://r.resimlink.com/xAdnZ.jpg" alt="Bu Sitenin Trafiği indexle.com ile Desteklenmektedir" title="indexle.com Hit Sistemi">
+</a>
